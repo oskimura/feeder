@@ -22,3 +22,16 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+## Compile
+
+Buid escript
+
+```
+mix escript.build
+```
+
+run feeder 
+
+```
+./feeder
+```
