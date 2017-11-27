@@ -1,6 +1,7 @@
 # Feeder
 
-**TODO: Add description**
+Feeder is RSS Feeder.
+scrape RSS.
 
 ## Installation
 
@@ -30,7 +31,9 @@ Buid escript
 mix escript.build
 ```
 
-run feeder 
+## fun
+
+run feeder escript 
 
 ```
 ./feeder
