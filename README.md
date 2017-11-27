@@ -31,7 +31,7 @@ Buid escript
 mix escript.build
 ```
 
-## fun
+## Run
 
 run feeder escript 
 
